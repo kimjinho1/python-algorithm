@@ -1,2 +1,2 @@
 ### Baekjoon Online Judge algorithm problem
-#### https://www.acmicpc.net/step  
+#### https://www.acmicpc.net/problem/tags  
